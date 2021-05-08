@@ -9,3 +9,7 @@ Please Visit my [PyBasic-Excercises](https://github.com/krishn-kant-raj/PyBasic-
 Generates profile reports from a pandas DataFrame.
 
 The pandas `df.describe()` function is great but a little basic for serious exploratory data analysis. pandas_profiling extends the pandas DataFrame with `df.profile_report()` for quick data analysis.
+
+# AutoScraper
+### Scrap Amazon Products detail
+<img title="AutoScraper" alt="AutoScraper image" src="https://warehouse-camo.ingress.cmh1.psfhosted.org/a6c8068e7edb22551fc5e3a2459f456a0dc04ddd/68747470733a2f2f757365722d696d616765732e67697468756275736572636f6e74656e742e636f6d2f31373838313631322f39313936383038332d35656539323038302d656432392d313165612d383265632d6439396563383533363761352e706e67">
