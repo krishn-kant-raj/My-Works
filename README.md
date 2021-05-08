@@ -19,4 +19,5 @@ The pandas `df.describe()` function is great but a little basic for serious expl
 Automatically Visualize any dataset, any size with a single line of code.
 
 AutoViz performs automatic visualization of any dataset with one line. Give any input file (CSV, txt or json) and AutoViz will visualize it.
+
 <img src="https://github.com/AutoViML/AutoViz/raw/master/logo.png">
