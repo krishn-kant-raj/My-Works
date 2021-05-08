@@ -13,3 +13,10 @@ The pandas `df.describe()` function is great but a little basic for serious expl
 # AutoScraper
 ### Scrap Amazon Products detail
 <img title="AutoScraper" alt="AutoScraper image" src="https://warehouse-camo.ingress.cmh1.psfhosted.org/a6c8068e7edb22551fc5e3a2459f456a0dc04ddd/68747470733a2f2f757365722d696d616765732e67697468756275736572636f6e74656e742e636f6d2f31373838313631322f39313936383038332d35656539323038302d656432392d313165612d383265632d6439396563383533363761352e706e67">
+
+# AutoViz
+
+Automatically Visualize any dataset, any size with a single line of code.
+
+AutoViz performs automatic visualization of any dataset with one line. Give any input file (CSV, txt or json) and AutoViz will visualize it.
+<img src="https://github.com/AutoViML/AutoViz/raw/master/logo.png">
