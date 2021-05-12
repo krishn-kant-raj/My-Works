@@ -21,3 +21,10 @@ Automatically Visualize any dataset, any size with a single line of code.
 AutoViz performs automatic visualization of any dataset with one line. Give any input file (CSV, txt or json) and AutoViz will visualize it.
 
 <img src="https://github.com/AutoViML/AutoViz/raw/master/logo.png">
+
+# DataPrep
+- The easiest way to prepare data in Python.
+- DataPrep.EDA is the fastest and the easiest EDA tool in Python. It allows data scientists to understand a Pandas/Dask DataFrame with a few lines of code in seconds.
+- DataPrep.Clean aims to provide a large number of functions with a unified interface for cleaning and standardizing data of various semantic types in a Pandas or Dask DataFrame.
+- Documentation [click here](https://docs.dataprep.ai/index.html)
+<img alt="DataPrep" src="https://warehouse-camo.ingress.cmh1.psfhosted.org/0fabcfe7686849b102fbe784f9e6313ec2543ce0/68747470733a2f2f6769746875622e636f6d2f7366752d64622f64617461707265702f7261772f646576656c6f702f6173736574732f6c6f676f2e706e67">
